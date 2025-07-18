@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.postimg.cc/YSKGNLht/Minimal-Technology-on-A-Dark-Blue-Background-banner-landscape.gif" width="800" height="300"></p>
+
 <h1 align="center">Hi 👋, I'm Rudresh Patel</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rudresh05&label=Profile%20views&color=0e75b6&style=flat" alt="ShivangSaxena05" /> </p>
