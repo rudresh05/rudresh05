@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rudresh05&label=Profile+Views&color=0e75b6&style=flat" alt="rudresh05" />
-  <img src="https://img.shields.io/github/followers/rudresh05?label=Followers&style=social" alt="GitHub Followers" />
+<!--   <img src="https://img.shields.io/github/followers/rudresh05?label=Followers&style=social" alt="GitHub Followers" /> -->
 </p>
 
 ## 🌐 Connect with Me
