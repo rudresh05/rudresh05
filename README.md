@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Rudresh Patel</h1>
-<h3 align="center">Android Developer | Kotlin Enthusiast | Passionate Tech Explorer</h3>
+<h3 align="center">Android Developer | DSA Enthusiast | Passionate Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D500F9&center=true&vCenter=true&width=500&lines=Crafting+Apps+That+Make+a+Difference.;Turning+Ideas+Into+Realities.;Code.+Create.+Repeat."/>
