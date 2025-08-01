@@ -111,6 +111,7 @@ Outside of development, I enjoy playing **Chess** ♟️ and **BGMI** 🎮 to st
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rudresh05&theme=radical&show_icons=true&hide_border=false&count_private=true" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=rudresh05&theme=radical&hide_border=false" />
 </p>
+
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudresh05&theme=radical&layout=compact&hide_border=false" />
 </p>
